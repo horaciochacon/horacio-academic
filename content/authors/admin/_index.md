@@ -20,9 +20,7 @@ organizations:
   url: "http://cientifica.edu.pe"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Horacio Chacón-Torrico, MD and biomedical informatics researcher from Lima, Perú. I have worked in clinical records analytics and mHealth related projects. I'm actually doing secondary data research projects in public health and steadily learning more from the power of R and Data science tools.
-
-This page will be a portfolio and notebook of all the knowledge I'll acquire in my R and Data science journey. You are welcome to join me.
+bio: MD, MSc. Biomedical Informatics and Global Health Researcher
 
 interests:
 - Public Health
@@ -72,3 +70,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+I'm Horacio Chacón-Torrico, MD and biomedical informatics researcher from Lima, Perú. I have worked in clinical records analytics and mHealth related projects. I'm actually doing secondary data research projects in public health and steadily learning more from the power of R and Data science tools.
+
+This page will be a portfolio and notebook of all the knowledge I'll acquire in my R and Data science journey. You are welcome to join me.
