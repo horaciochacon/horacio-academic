@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Horacio Chacón-Torrico
+title: Horacio Chacon
 
 # Username (this should match the folder name)
 authors:
@@ -14,9 +14,9 @@ role: MD & MSc. Biomedical Informatics
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Peruana Cayetano Heredia
+- name: UPCH
   url: "https://www.cayetano.edu.pe/cayetano/es/"
-- name: Universidad Científica del Sur
+- name: UCSUR
   url: "http://cientifica.edu.pe"
 
 # Short bio (displayed in user profile at end of posts)
